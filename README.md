@@ -119,8 +119,6 @@ Exemplos de telas:
 * Pesquisa no Acervo
 * Módulo de Vendas
 
-<img width="925" height="527" alt="image" src="https://github.com/user-attachments/assets/23716e96-2deb-452b-a7c7-038348322392" />
-
 <img width="921" height="524" alt="image" src="https://github.com/user-attachments/assets/8f09c148-730b-4e3d-b31f-39970e2d1a60" />
 
 ---
